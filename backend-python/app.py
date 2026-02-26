@@ -847,9 +847,9 @@ def init_db():
 
 if __name__ == '__main__':
     init_db()
-    
-    # Start background monitor thread
+
     monitor_thread = threading.Thread(target=due_date_monitor, daemon=True)
     monitor_thread.start()
-    
-    app.run(port=5000, debug=True)
+
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
