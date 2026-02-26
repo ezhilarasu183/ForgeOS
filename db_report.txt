@@ -1,0 +1,21 @@
+DB AUDIT REPORT
+====================================================================================================
+
+ALL EMPLOYEES:
+{'id': 4, 'name': 'Agalya', 'email': 'agalyal5.3@protosem.tech', 'password': '94fa221465b85a5e66983d1a0701e6ed38ad22812690f1dc158b20a273252be6', 'role': 'Developer', 'dob': '2006-01-17', 'username': ''}
+{'id': 7, 'name': 'Ezhilarasu', 'email': 'arasu0984@gmail.com', 'password': '8bb06463ed0fde2ae6793d984ed7f2aa152ce1ef269a3a0c5f4e21a906c2e076', 'role': 'Manager', 'dob': '2005-08-25', 'username': 'arasu0984@gmail.com'}
+{'id': 6, 'name': 'Guna', 'email': 'guna.d@forge-iv.co', 'password': '4ee4ce568c0650c7b068643282a9196a79820af067d7594a0f01914428b13003', 'role': 'Admin', 'dob': '2000-01-01', 'username': ''}
+{'id': 5, 'name': 'khavya', 'email': 'khavya.s@forge-iv.co', 'password': '2d4c4b2b88b380cd92774d78b0d993bf5d1256432d159216948b689eacbeec71', 'role': 'Admin', 'dob': '2000-01-01', 'username': ''}
+{'id': 10, 'name': 'nandhini', 'email': 'nandhineeswarin5.3@protosem.tech', 'password': '818f1ecd77336400a5bb3b4f3d505eca386fa34fe2fa4eb59a2cd770a6e61bf1', 'role': 'Admin', 'dob': '2005-11-04', 'username': ''}
+{'id': 8, 'name': 'rithan', 'email': 'rithangautham@gmail.com', 'password': '210764c23a2699b86668125964f8c1fc55ec2f5f5903f1b82a94b029e3b91433', 'role': 'Designer', 'dob': '2026-09-17', 'username': ''}
+
+DUPLICATE NAMES:
+
+DUPLICATE EMAILS:
+
+TASKS WITHOUT ASSIGNEE EMAIL:
+{'id': 2, 'task': 'machine', 'assignee': 'Ezhilarasu', 'assignee_email': None}
+{'id': 58, 'task': 'car', 'assignee': 'Agalya', 'assignee_email': None}
+{'id': 59, 'task': 'salary', 'assignee': 'Agalya', 'assignee_email': None}
+{'id': 60, 'task': 'bag', 'assignee': 'Agalya', 'assignee_email': None}
+{'id': 76, 'task': 'Assigned by Admin to Employee', 'assignee': 'Some Employee', 'assignee_email': None}

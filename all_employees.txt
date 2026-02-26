@@ -1,0 +1,6 @@
+{'id': 4, 'name': 'Agalya', 'email': 'agalyal5.3@protosem.tech', 'role': 'Developer'}
+{'id': 5, 'name': 'khavya', 'email': 'khavya.s@forge-iv.co', 'role': 'Admin'}
+{'id': 6, 'name': 'Guna', 'email': 'guna.d@forge-iv.co', 'role': 'Admin'}
+{'id': 7, 'name': 'Ezhilarasu', 'email': 'arasu0984@gmail.com', 'role': 'Manager'}
+{'id': 8, 'name': 'rithan', 'email': 'rithangautham@gmail.com', 'role': 'Designer'}
+{'id': 10, 'name': 'nandhini', 'email': 'nandhineeswarin5.3@protosem.tech', 'role': 'Admin'}

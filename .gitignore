@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+tracker.db
+uploads/
+email_config.json
+node_modules/
+/.next/
+/.next_server/
+out/
+build/
+dist/
+.agent/
+.gemini/
+*.log

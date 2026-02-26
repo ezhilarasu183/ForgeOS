@@ -1,0 +1,11 @@
+Employees in database:
+--------------------------------------------------------------------------------
+ID: 4, Name: Agalya, Email: agalyal5.3@protosem.tech, Pass: 94fa221465b85a5e66983d1a0701e6ed38ad22812690f1dc158b20a273252be6, Role: Developer
+ID: 5, Name: khavya, Email: khavya.s@forge-iv.co, Pass: 2d4c4b2b88b380cd92774d78b0d993bf5d1256432d159216948b689eacbeec71, Role: Admin
+ID: 6, Name: Guna, Email: guna.d@forge-iv.co, Pass: 4ee4ce568c0650c7b068643282a9196a79820af067d7594a0f01914428b13003, Role: Admin
+ID: 7, Name: Ezhilarasu, Email: arasu0984@gmail.com, Pass: 240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9, Role: Manager
+ID: 8, Name: rithan, Email: rithangautham@gmail.com, Pass: 210764c23a2699b86668125964f8c1fc55ec2f5f5903f1b82a94b029e3b91433, Role: Designer
+ID: 10, Name: nandhini, Email: nandhineeswarin5.3@protosem.tech, Pass: 818f1ecd77336400a5bb3b4f3d505eca386fa34fe2fa4eb59a2cd770a6e61bf1, Role: Admin
+
+Verification check:
+Hash of 'admin123': 240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9

@@ -1,0 +1,6 @@
+streamlit
+icalendar
+openai
+google-generativeai
+fastapi
+uvicorn
